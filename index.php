@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1> Latihan git</h1>
-    <button>submit</button>
+    <button>submit new </button>
 </body>
 </html>
